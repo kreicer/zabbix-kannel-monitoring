@@ -1,7 +1,5 @@
 # Zabbix Kannel Template with Auto-discovery and support for multiple providers
 
-![Logo1](https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png) ![Logo2](https://www.kannel.org/images/kannel.gif)
-
 ## Main features
 
 - Supports auto discovery of providers (SMSC)
