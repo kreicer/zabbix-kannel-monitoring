@@ -4,7 +4,7 @@
 
 - Supports auto discovery of providers (SMSC)
 - Easy configuration
-- Low load on Zabbix server: most elements sending by zabbix_sender
+- Low load on Zabbix server: most elements sending info by zabbix_sender
 - Bash: no need to install Perl, PHP, Go or other languages. 
 
 ## Provided Items
