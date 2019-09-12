@@ -72,7 +72,7 @@ apt-get install libxml2-utils
 
 ```console
 wget https://github.com/kreicer/zabbix-kannel-monitoring/archive/master.zip /tmp/zabbix-kannel-monitoring.zip
-unzip /tmp/zabbix-php-fpm.zip
+unzip /tmp/zabbix-kannel-monitoring.zip
 cp /tmp/zabbix-kannel-monitoring/kannel-monitoring.conf /etc/zabbix/zabbix_agentd.conf/
 cp /tmp/zabbix-kannel-monitoring/kannel-monitoring.sh /etc/zabbix/scripts/
 chmod +x /etc/zabbix/scripts/kannel-monitoring.sh
