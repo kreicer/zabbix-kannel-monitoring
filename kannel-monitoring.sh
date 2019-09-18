@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Author: kreicer
-#Version: 0.4
+#Version: 0.5
 #Requirements: xmllint (apt-get install libxml2-utils)
 
 xmlstatus=$1
