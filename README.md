@@ -85,6 +85,18 @@ If you using non-standart zabbix-agent.conf path change it in kannel-monitoring.
 zabbixconf="/etc/zabbix/zabbix_agentd.conf"
 ```
 
+If you using password for status.xml change it in kannel-monitoring.sh
+
+before
+```console
+curl "$xmlstatus" -o $xmlpath --silent
+```
+
+after
+```console
+curl "$xmlstatus?password=your_password_here" -o $xmlpath --silent
+```
+
 #### 1.3 Clean up
 Delete temporary files:
 
