@@ -124,13 +124,11 @@ Setup is finished, just wait 15 minutes till Zabbix discovers your providers and
 
 # Compatibility
 Tested with:
-- Zabbix 4.2.5
-- Kannel 1.4.5
+- Zabbix 4.x
+- Kannel 1.4.x
 
 Should work:
-- Zabbix 4.x
 - Zabbix 3.x
-- Kannel 1.4.x
 
 Not tested with:
 - Kannel 1.3.x and earlier
